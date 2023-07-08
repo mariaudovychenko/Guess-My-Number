@@ -1,4 +1,4 @@
-# Rate Meine Zahl = Guess My Number
+# Guess My Number = Rate Meine Zahl 
 
 Welcome to the "Guess My Number" game, where your challenge is to guess a random number between 1 and 25. To participate, simply enter your chosen number within this range. Once you've made your selection, click on the "überprüfen" = "Check" button to receive feedback on whether your number is too high or too low.
 
