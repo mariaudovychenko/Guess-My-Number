@@ -5,3 +5,5 @@ Welcome to the "Guess My Number" game, where your challenge is to guess a random
 You'll have a total of 25 attempts to win the game and earn a spot on the high score leaderboard. If you successfully guess the number, the background will turn green, and you'll receive a congratulations for your achievement. Additionally, there is an option to restart the game and continue the excitement.
 
 Get ready to put your guessing skills to the test and embark on an exhilarating journey of number discovery!
+
+https://rate-meine-zahl.netlify.app/
